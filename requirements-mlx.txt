@@ -1,0 +1,6 @@
+mlx-audio==0.5.8
+mlx==0.32.3
+transformers==5.19.0
+huggingface-hub==2.2.0
+soundfile==0.14.0
+soxr==1.0.0
